@@ -1,4 +1,4 @@
-from matplotlib.pyplot import imread
+from cv2 import imread
 
 class ImageLoader():
     '''

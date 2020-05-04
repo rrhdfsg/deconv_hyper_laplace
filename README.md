@@ -1,7 +1,7 @@
 
 
 
-## classes/gradient_norm>>GradientNorm() class
+## classes/gradient_norm>>Gradient() class
 
 A class that, when instantiated, loads in and calculates quantities related to the gradient, gradient norm
 and grandient norm distribution of an array 
